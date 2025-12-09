@@ -28,9 +28,9 @@ This project analyzes HR data using Power BI to uncover insights related to empl
 <img width="1313" height="739" alt="HR analysis Screenshot" src="https://github.com/user-attachments/assets/d5e16383-e990-4685-9f89-ce277cf97197" />
 
 ## Project Insights
--Analyze the number of employees hired each year to understand workforce growth patterns.
--Identify which departments are hiring the most and track recruitment focus areas.
--Compare the number of employees leaving versus new hires to assess workforce stability.
--Analyze age, gender, and location distribution to support diversity and inclusion initiatives.
--Track employee performance ratings and goal completion to identify top performers and areas for improvement.
+- Analyze the number of employees hired each year to understand workforce growth patterns.
+- Identify which departments are hiring the most and track recruitment focus areas.
+- Compare the number of employees leaving versus new hires to assess workforce stability.
+- Analyze age, gender, and location distribution to support diversity and inclusion initiatives.
+- Track employee performance ratings and goal completion to identify top performers and areas for improvement.
  
