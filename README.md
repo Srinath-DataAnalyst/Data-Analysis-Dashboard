@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Power BI and Excel, creating multiple dashboards and tables to analyze the data. This process involved  several stages, including data preprocessing, data cleaning and data visualization.
+# HR-Data-Analysis (Interactive Dashboard creation using Power BI)
+##Project Objective
+This project analyzes HR data using Power BI to uncover insights related to employee demographics, hiring, and attrition trends. The dashboard enables HR teams to make strategic decisions and improve workforce planning.
+
