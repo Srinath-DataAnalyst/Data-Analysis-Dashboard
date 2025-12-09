@@ -14,11 +14,7 @@ This project analyzes HR data using Power BI to uncover insights related to empl
 - Analyze employee tenure distribution.
 - Display employee headcount trend over time (monthly/quarterly/yearly).
 -	How has employee hiring changed over the years, and is there a noticeable upward or downwar   trend in recruitment?
-
-## Slicers for Enhanced Analysis: 
 -	Implement multiple slicers enabling dynamic filtering by department, country, and employee  full name.
-
-
 - Dashboard Interactive <a href="https://github.com/Srinath-DataAnalyst/Data-Analysis- Dashboard/blob/main/HR%20analysis.png">View Dashboard</a>
 
 ## Process
