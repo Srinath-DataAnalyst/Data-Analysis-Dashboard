@@ -3,7 +3,7 @@
 This project analyzes HR data using Power BI to uncover insights related to employee demographics, hiring, and attrition trends. The dashboard enables HR teams to make strategic decisions and improve workforce planning.
 
 # Dataset used
-- <a href="https://github.com/Srinath-DataAnalyst/Data-Analysis Dashboard/blob/main/Employee%20Sample%20Data.xlsx"> Dataset</a>
+- <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FDashboards-21%2FData-Analysis-Dashboard%2Frefs%2Fheads%2Fmain%2FEmployee%2520Sample%2520Data.xlsx&wdOrigin=BROWSELINK"> Dataset</a>
 
 ## Questions (KPIs)
 -	Illustrate Headcount breakdown by Business Unit. 
